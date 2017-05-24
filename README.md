@@ -6,7 +6,7 @@
 
 ### 1.Python
 
-####　视频资源
+#### 视频资源
 
 * MITx 6.00.1x: [Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-10)
 
@@ -57,7 +57,7 @@
 
 ## 机器学习相关
 
-####　MOOC
+#### MOOC
 
 * Coursera ([Andrew Ng](https://www.coursera.org/instructor/andrewng))：[机器学习](https://www.coursera.org/learn/machine-learning)
 * Udacity(优达学城)：[机器学习（入门）](https://cn.udacity.com/course/machine-learning-engineer-nanodegree--nd009-cn-basic)
